@@ -6,7 +6,7 @@ Tool used:- MySQL
 
 DESCRIPTION:-
 > This is a Music Store Analysis SQL Project
-> The database has been downloaded from Kaggle and contains 11 tables in total.
+> The database has been downloaded from Kaggle and contains 11 tables in total
 
 DATA:-
 > album2:- this table contains album details
